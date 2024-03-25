@@ -18,4 +18,5 @@ ActiveRecord::Schema.define(version: 2024_03_24_172540) do
     t.datetime "updated_at", null: false
     t.string "title"
   end
+
 end
